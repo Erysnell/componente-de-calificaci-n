@@ -161,3 +161,7 @@ p{
   .attribution a {
     color: hsl(228, 45%, 44%);
   }
+
+  .calification {
+    padding: 0px 5px;
+  }
